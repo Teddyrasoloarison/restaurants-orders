@@ -1,0 +1,1 @@
+CREATE TYPE type_of_table AS ENUM ('TABLE_1','TABLE_2','TABLE_3');
